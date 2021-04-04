@@ -1,0 +1,11 @@
+.footer {
+  @include background($light-grey);
+  color: $primary;
+  text-align: center;
+  height: 10rem;
+  padding: 1rem;
+  .content {
+    display: flex;
+    justify-content: space-around;
+  }
+}

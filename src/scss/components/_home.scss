@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  .img-main {
+    height: 30rem;
+  }
+
+  h1 {
+    font-size: 4rem;
+    color: lighten($dark-grey, 10);
+  }
+  h3 {
+    color: lighten($dark-grey, 10);
+    font-size: 3rem;
+    font-weight: 400;
+  }
+}
