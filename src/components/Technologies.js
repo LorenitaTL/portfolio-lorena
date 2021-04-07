@@ -11,7 +11,7 @@ import mysql from "../assets/mysql.png";
 import mongo from "../assets/mongodb.png";
 export const Technologies = () => {
   return (
-    <div className="tech-section main">
+    <div className="tech-section main" id="technologies">
       <h3 className="tech-title">Technologies</h3>
       <div className="tech">
         <div className="item">

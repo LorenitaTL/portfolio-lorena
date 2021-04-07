@@ -1,9 +1,11 @@
-.header {
+.navbar {
   @include background($primary);
   color: $white;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  position: fixed;
+  width: 100%;
 
   p {
     text-transform: uppercase;

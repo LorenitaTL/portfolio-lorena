@@ -7,7 +7,7 @@ import p4 from "../assets/project-4.jpg";
 
 export const MyProjects = () => {
   return (
-    <div className="my-projects ">
+    <div className="my-projects" id="my-projects">
       <h2 className="subtitle">My Projects</h2>
       <div className="projects main">
         <ProjectCard
@@ -83,13 +83,6 @@ export const MyProjects = () => {
           tags={"Flutter"}
         />
       </div>
-      {/* <div className="pagination">
-        <p className="btn">{"<"}</p>
-        <p className="active">{"1"}</p>
-        <p className="btn">{"of"}</p>
-        <p className="btn">{"5"}</p>
-        <p className="btn">{">"}</p>
-      </div> */}
     </div>
   );
 };

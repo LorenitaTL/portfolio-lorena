@@ -6,7 +6,7 @@ import { CardAbMe } from "./CardAbMe";
 
 export const AboutMe = () => {
   return (
-    <div className="about-me main ">
+    <div className="about-me main " id="about-me">
       <h2 className="subtitle">About me</h2>
       <div className="cards">
         <CardAbMe img={img2} title={"Education"} />

@@ -1,8 +1,12 @@
 .home {
+  padding-top: 5rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
 
+  .details {
+    width: 40%;
+  }
   .img-main {
     height: 30rem;
   }
@@ -15,5 +19,8 @@
     color: lighten($dark-grey, 10);
     font-size: 3rem;
     font-weight: 400;
+  }
+  p {
+    font-size: 1.2rem;
   }
 }
