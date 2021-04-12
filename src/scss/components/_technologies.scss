@@ -3,13 +3,20 @@
   .tech {
     align-items: center;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
-    height: 10rem;
     margin: 1rem 1rem 1rem 1rem;
 
     .item {
-      width: 7rem;
+      width: 3rem;
+      margin: 1rem;
 
+      @include tablet(){
+        width: 5rem;
+      }
+      @include desktop(){
+        width: 7rem;
+      }
       img {
         width: 100%;
       }
