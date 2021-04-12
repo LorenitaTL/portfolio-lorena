@@ -1,26 +1,48 @@
 .home {
   padding-top: 5rem;
   display: flex;
-  justify-content: space-around;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
   align-items: center;
+  color: lighten($dark-grey, 10);
+
+  .img-main {
+    height: 10rem;
+  }
 
   .details {
-    width: 40%;
+    text-align: center;
   }
-  .img-main {
-    height: 30rem;
-  }
-
   h1 {
-    font-size: 4rem;
-    color: lighten($dark-grey, 10);
+    font-size: 2rem;
   }
   h3 {
-    color: lighten($dark-grey, 10);
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-weight: 400;
   }
   p {
-    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+  }
+
+  @include desktop() {
+    justify-content: space-around;
+    .details {
+      width: 40%;
+      text-align: left;
+    }
+    .img-main {
+      height: 30rem;
+    }
+
+    h1 {
+      font-size: 4rem;
+    }
+    h3 {
+      font-size: 3rem;
+    }
+    p {
+      font-size: 1.2rem;
+    }
   }
 }
