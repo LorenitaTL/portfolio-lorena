@@ -9,10 +9,10 @@ import css from "../assets/css.png";
 import sass from "../assets/sass.png";
 import mysql from "../assets/mysql.png";
 import mongo from "../assets/mongodb.png";
-export const Technologies = () => {
+export const Skills = () => {
   return (
-    <div className="tech-section main" id="technologies">
-      <h3 className="tech-title">Technologies</h3>
+    <div className="tech-section main" id="skills">
+      <h3 className="tech-title">Skills</h3>
       <div className="tech">
         <div className="item">
           <img src={flutter} alt="flutter" />

@@ -8,12 +8,12 @@ export const Home = () => {
         <h1>Lorena Trujillo Landeros</h1>
         <h3>Software Developer</h3>
         <p>
-          Consectetur sunt reprehenderit sint proident ad quis consectetur esse
-          dolore. Irure aliqua ex cillum exercitation aliquip adipisicing amet
-          proident sint commodo Lorem id. Consequat fugiat exercitation proident
-          aliqua sunt sint excepteur incididunt do aute culpa duis consequat
-          duis. Deserunt ad ea exercitation ipsum aliquip nostrud excepteur qui
-          et non sunt do.{" "}
+          I am an active, participatory and self-taught woman. I like to learn
+          new things and help solve problems. In the team projects in which I
+          have participated, I am regularly the leader of the team because i
+          like meeting new people and sharing conversations of all kinds. I
+          enjoy learning new things about programming, especially frontend
+          development (mobile and web)
         </p>
       </div>
       <div>

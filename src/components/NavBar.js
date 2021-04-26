@@ -46,12 +46,12 @@ export const NavBar = () => {
         </p>
         <p>
           <Link
-            to="technologies"
+            to="skills"
             smooth={true}
             duration={1000}
             onClick={handleShowMenu}
           >
-            Technologies
+            Skills
           </Link>
         </p>
         <p>
