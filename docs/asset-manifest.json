@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea6f378a.chunk.css",
+    "main.js": "/static/js/main.a6ec89f0.chunk.js",
+    "main.js.map": "/static/js/main.a6ec89f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.986f1fde.js",
+    "runtime-main.js.map": "/static/js/runtime-main.986f1fde.js.map",
+    "static/js/2.d29b0494.chunk.js": "/static/js/2.d29b0494.chunk.js",
+    "static/js/2.d29b0494.chunk.js.map": "/static/js/2.d29b0494.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ea6f378a.chunk.css.map": "/static/css/main.ea6f378a.chunk.css.map",
+    "static/js/2.d29b0494.chunk.js.LICENSE.txt": "/static/js/2.d29b0494.chunk.js.LICENSE.txt",
+    "static/media/Recurso 1.a5e4be1d.svg": "/static/media/Recurso 1.a5e4be1d.svg",
+    "static/media/css.57feb85c.png": "/static/media/css.57feb85c.png",
+    "static/media/education.b883b2be.svg": "/static/media/education.b883b2be.svg",
+    "static/media/html.397540de.png": "/static/media/html.397540de.png",
+    "static/media/img-2.b18c4948.svg": "/static/media/img-2.b18c4948.svg",
+    "static/media/img-3.0ae53cc5.svg": "/static/media/img-3.0ae53cc5.svg",
+    "static/media/img-4.80463c64.svg": "/static/media/img-4.80463c64.svg",
+    "static/media/js.7962c0f6.png": "/static/media/js.7962c0f6.png",
+    "static/media/mongodb.788ba14a.png": "/static/media/mongodb.788ba14a.png",
+    "static/media/mysql.6e42b2a0.png": "/static/media/mysql.6e42b2a0.png",
+    "static/media/nodejs.30ca82b0.png": "/static/media/nodejs.30ca82b0.png",
+    "static/media/php.aea46e63.png": "/static/media/php.aea46e63.png",
+    "static/media/project-1.663f210d.jpg": "/static/media/project-1.663f210d.jpg",
+    "static/media/project-2.0611473d.png": "/static/media/project-2.0611473d.png",
+    "static/media/project-3.291213d9.jpg": "/static/media/project-3.291213d9.jpg",
+    "static/media/project-4.b3ba9845.jpg": "/static/media/project-4.b3ba9845.jpg",
+    "static/media/react.80045de7.png": "/static/media/react.80045de7.png",
+    "static/media/sass.cebbde63.png": "/static/media/sass.cebbde63.png",
+    "static/media/skills.e96418a2.svg": "/static/media/skills.e96418a2.svg",
+    "static/media/work.4be318e8.svg": "/static/media/work.4be318e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.986f1fde.js",
+    "static/js/2.d29b0494.chunk.js",
+    "static/css/main.ea6f378a.chunk.css",
+    "static/js/main.a6ec89f0.chunk.js"
+  ]
+}
