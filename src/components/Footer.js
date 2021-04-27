@@ -9,7 +9,7 @@ export const Footer = () => {
           <p>Linkedin</p>
           <i className="fab fa-linkedin"></i>
           <p>
-            <a href="https://www.linkedin.com/in/lorena-trujillo-landeros-83638a114/">
+            <a href="https://www.linkedin.com/in/lorena-trujillo-landeros-83638a114/" target="_blank" rel="noreferrer">
               Lorena Trujillo Landeros
             </a>
           </p>

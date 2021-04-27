@@ -1,5 +1,5 @@
 .home {
-  padding-top:10rem;
+  padding-top:5rem;
   display: flex;
   flex-wrap: wrap-reverse;
   justify-content: center;
@@ -49,6 +49,7 @@
     }
   }
   @include desktop() {
+    padding-top:10rem;
     justify-content: space-around;
     .details {
       width: 40%;

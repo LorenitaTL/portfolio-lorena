@@ -21,7 +21,7 @@ export const NavBar = () => {
             duration={1000}
             onClick={handleShowMenu}
           >
-            Home
+            Inicio
           </Link>
         </p>
         <p>
@@ -31,7 +31,7 @@ export const NavBar = () => {
             duration={1000}
             onClick={handleShowMenu}
           >
-            About me
+            Acerca de mí
           </Link>
         </p>
         <p>
@@ -41,7 +41,17 @@ export const NavBar = () => {
             duration={1000}
             onClick={handleShowMenu}
           >
-            My Projects
+            Mis Proyectos
+          </Link>
+        </p>
+        <p>
+          <Link
+            to="experience"
+            smooth={true}
+            duration={1000}
+            onClick={handleShowMenu}
+          >
+            Experiencia
           </Link>
         </p>
         <p>
@@ -51,7 +61,7 @@ export const NavBar = () => {
             duration={1000}
             onClick={handleShowMenu}
           >
-            Skills
+            Habilidades
           </Link>
         </p>
         <p>
@@ -61,7 +71,7 @@ export const NavBar = () => {
             duration={1000}
             onClick={handleShowMenu}
           >
-            Contact me
+            Contacto
           </Link>
         </p>
       </div>
