@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../assets/img-1.svg";
+import image from "../assets/Recurso 1.svg";
 
 export const Home = () => {
   return (
